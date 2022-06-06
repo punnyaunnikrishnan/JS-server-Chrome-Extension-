@@ -1,0 +1,44 @@
+
+    .container {
+        margin: 1.5em;
+        text-align: center;
+    
+      }
+      .enter-country{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 16px;
+        color: rgb(1, 12, 22);
+      }
+      .country-name{
+        background-color: rgb(223, 222, 222);
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+      .search-btn{
+        border: 2px solid black;
+        border-radius: 7px;
+        background-color: rgb(46, 44, 44);
+        color:rgb(253, 251, 251);
+      }
+      .loading{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 12px;
+        color:rgb(14, 1, 1);
+      }
+      .errors{
+        font-family: 'Times New Roman', Times, serif;
+        color: rgb(3, 16, 27);
+      }
+      .data{
+        font-family: 'Times New Roman', Times, serif;
+      }
+      .result-container{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 18px;
+        color: rgb(1, 6, 10);
+        text-align: center;
+      }
+      .result {
+        margin-top: 1em;
+      }
+    
